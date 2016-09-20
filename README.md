@@ -1,2 +1,3 @@
 # docs
-Hub for random documents I'm working on.
+
+Simple repo to hold all of the documents I'm working on: proposals, thoughts, experiments, etc ... 
